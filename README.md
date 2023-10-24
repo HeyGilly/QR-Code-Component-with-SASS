@@ -36,6 +36,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 - LinkedIn - [@HeyGilly](https://www.linkedin.com/in/heygilly/)
 - Frontend Mentor - [@HeyGilly](https://www.frontendmentor.io/profile/HeyGilly)
-
-
-# QR-Code-Component-with-SASS
