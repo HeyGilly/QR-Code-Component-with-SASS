@@ -6,12 +6,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot of finished project](./images/QR-Code.png)
+![Screenshot of finished project](./img/QR-Code.png)
 
 ### Links
 
 - Solution URL: [Frontend_Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub](https://your-live-site-url.com)
+- Live Site URL: [GitHub](https://heygilly.github.io/QR-Code-Component-with-SASS/)
 
 ## My process
 
