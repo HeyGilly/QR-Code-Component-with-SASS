@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+/*
+# Front-end Style Guide
+
+BONUS:
+  - Best judgment for styles such as font-size, padding and margin.
+*/
+
+//-- Colors
+$primary:hsl(220, 15%, 55%);
+$secondary: hsl(218, 44%, 22%);
+$white:hsl(0, 0%, 100%);
+$gray: hsl(212, 45%, 89%);
+
+//-- Typography
+$bodyFontSize:15px;
+$weight400:400;
+$weight700:700;
+
+$fontFamily:'Outfit', sans-serif;
